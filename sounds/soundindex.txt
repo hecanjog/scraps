@@ -1,0 +1,30 @@
+1-59 bass clarinet sfx
+60-145 flute desc runs
+146-250 flute asc major scale runs
+251-269 flute doodle one note
+270-283 cowbell
+284-345 hats and shakers
+346-381 claps
+382-395 kicks
+396-408 snares
+409-427 toms
+428-439 kicks
+440-453 snare long
+454-465 toms
+466-484 ride cymb
+485-489 kicks
+490-498 snare crisp
+499-518 toms crisp
+519-526 splash cymb
+527-535 soft cymb rolls
+536-566 kicks dynamic
+567-574 snare loose
+575-593 toms
+594-598 ride cymb
+599-602 soft ride cymb roll
+603-612 bass guitar notes
+
+
+0-87 harps noisy
+88-178 harps cleaner various
+
